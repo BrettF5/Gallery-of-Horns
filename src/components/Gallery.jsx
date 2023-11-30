@@ -36,9 +36,10 @@ const Gallery = () => {
     <div>
       {hornedBeastsData.map((beast) => (
         <HornedBeast
-          title={beast.title}
-          imageUrl={beast.image_url}
-          description={beast.description}
+            key={beast._id}
+            title={beast.title}
+            imageUrl={beast.image_url}
+            description={beast.description}
         />
       ))}
     </div>
