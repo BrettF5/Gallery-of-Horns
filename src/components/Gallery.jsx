@@ -10,13 +10,15 @@ function Gallery(props) {
     <div>
       <h1>{props.message}</h1>
       <Container>
-        <Row>
+        <Row className='align-items-center'>
           {props.hornAnimals.map((animal, index) => (
-            <Col key={index}>
+            <Col key={animal._id}>
               <HornedAnimalData
                 title={animal.title}
                 image={animal.image_url}
                 description={animal.description}
+                keyword={animal.keyword}
+                horns={animal.horns}
               />
             </Col>
           ))}
