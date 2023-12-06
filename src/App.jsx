@@ -6,7 +6,9 @@ import Footer from './components/Footer';
 import hornAnimals from './data.json';
 import Container from 'react-bootstrap/Container';
 
+
 function App() {
+
     return (
         <Container>
         <Header title="Gallery of Horns" />
