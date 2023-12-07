@@ -27,14 +27,15 @@ Lab 01 thru Lab 04:
 - Actual time needed to complete: 5hrs. Did this will trying to get the other two features working. 
 
 ### Bug fixes for this Lab:
-1. Need to get the Rows and Columns to work
-1. Add the heart feature.
-
+1. ~~Need to get the Rows and Columns to work~~
+1. ~~Add the heart feature.~~ 
+*Fixed*
+- Actual time needed for fixes: 3hrs.
 ---
 
 ### Lab#3
 #### Lighthouse Score:
-![Lighthouse](./src/img/LightHouseLab3.png)
+![Lighthouse Lab 3](./src/img/LightHouseLab3.png)
 
 - Number and name of feature: Display a Modal
 - Estimate of time needed to complete: 2 hrs
@@ -43,3 +44,18 @@ Lab 01 thru Lab 04:
 - Actual time needed to complete:  5hrs
 
 ---
+
+### Lab#3
+#### Lighthouse Score:
+![Lighthouse Lab 4](./src/img/LightHouseLab4.png)
+
+- Number and name of feature: Feature 1. Filter by Numbers of Horns
+- Estimate of time needed to complete: 5 hrs
+- Start time: 1700
+- Finish time: 2200
+- Actual time needed to complete:  5hrs
+
+---
+
+## Steps need to be completed.
+1. Deploy site to GitHub

@@ -24,8 +24,5 @@ function SelectedBeast(props) {
       </Modal>
     );
   }
-            
-
-
 
 export default SelectedBeast;
